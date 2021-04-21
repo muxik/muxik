@@ -1,7 +1,7 @@
 
 
 <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/42647136?v=4">
+	<img width="400" src="https://raw.githubusercontent.com/muxik/muxik/master/assets/image/Muxi_k.jpeg">
 	<p style="font-size:28px">Muxi_k</h1>
 	<p>念念不忘，必有回响</p><br/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
