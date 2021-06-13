@@ -19,7 +19,7 @@
 ----
 
 ### <img src="https://simpleicons.org/icons/linux.svg" width="28" /> GNU/Linux stuffs
-- [PureBlog](https://github.com/muxik/nvim) Muxi_K的nvim配置
+- [Nvim](https://github.com/muxik/nvim) Muxi_K的nvim配置
 - [emacs.d](https://github.com/muxik/emacs.d) Learn the configuration in emacs.
 - [fast-zsh](https://github.com/muxik/fast-zsh) 一个可以快速安装和配置zsh的脚本
 - [.config](https://github.com/muxik/.config/tree/master/bspwm) 我的Archlinux配置
