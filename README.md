@@ -1,7 +1,7 @@
 
 
 <div align="center">
-	<img width="150" src="https://raw.githubusercontent.com/muxik/muxik/master/assets/image/Muxi_k.jpeg">
+	<img width="150" src="https://raw.githubusercontent.com/muxik/muxik/master/assets/image/run.gif">
 	<p>
 		<font size="5">Muxi_k</font>
   </p>
